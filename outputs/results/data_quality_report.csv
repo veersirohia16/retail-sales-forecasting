@@ -1,0 +1,20 @@
+Check,Value
+train.csv rows,421570
+train.csv columns,5
+Stores,45
+Departments,81
+Weeks,143
+First week,2010-02-05
+Last week,2012-10-26
+Duplicate rows in train.csv,0
+Missing values in train.csv,0
+Negative Weekly_Sales rows (returns),1285
+features.csv rows,8190
+features.csv missing % - MarkDown1,50.8
+features.csv missing % - MarkDown2,64.3
+features.csv missing % - MarkDown3,55.9
+features.csv missing % - MarkDown4,57.7
+features.csv missing % - MarkDown5,50.5
+features.csv missing % - CPI,7.1
+features.csv missing % - Unemployment,7.1
+stores.csv rows,45

@@ -1,0 +1,20 @@
+Metric,Value
+Average total weekly sales (all stores),47113419.49027973
+Highest week,2010-12-24 ($80.9M)
+Lowest week,2011-01-28 ($39.6M)
+"Avg store-week sales, normal weeks",1041256.3802088555
+"Avg store-week sales, holiday weeks",1122887.8923555557
+Holiday lift (all holiday weeks),7.8%
+Thanksgiving lift,41.3%
+Correlation store size vs avg sales,0.846
+Type A avg weekly sales per store,1376673.4655912272
+Type B avg weekly sales per store,822994.9554997943
+Type C avg weekly sales per store,472614.833962704
+Top-10 departments share of revenue,46.0%
+Feb-Oct sales growth 2010 -> 2011,-0.6%
+Feb-Oct sales growth 2011 -> 2012,2.5%
+Within-store corr: Temperature,-0.104
+Within-store corr: Unemployment,-0.05
+Within-store corr: Fuel_Price,-0.042
+Within-store corr: CPI,0.019
+Within-store corr: MarkDown_Total,0.119
